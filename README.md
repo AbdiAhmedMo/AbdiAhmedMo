@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed Abdi | Software Engineer | Full-Stack Dev | Problem-Solver  
+# 👨‍💻 Abdi Ahmed | Software Engineer | Full-Stack Dev | Problem-Solver  
 
 📍 **From Kenya, coding the world one bug at a time**  
 
